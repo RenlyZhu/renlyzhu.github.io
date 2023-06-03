@@ -1,10 +1,10 @@
 # Site settings
 title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+SEOTitle: 朱博的博客 | Renly Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: "这里是朱博（renly） 的个人博客，与你一起发现更大的世界 | 要做一个有梦想的的心理学家"
+keyword: "朱博， @renly, 朱博的博客, renly Blog, 博客, 个人网站, 互联网"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: 要一直努力的renly
+zhihu_username: 要一直努力的renly
+github_username: renlyzhu
+twitter_username: renlyzhu
+#facebook_username:  renltzhu
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -70,11 +70,10 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个有理想的心理学家 <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -88,15 +87,12 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# Friends
-friends:
+# 教育经历
+教育经历：
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "长兴县虹星桥镇幼儿园", href: "https://www.ruyile.com/school/r251001/" },
+    { title: "长兴县红星桥镇中学" },
+    { title: "长兴县华盛高级中学", href: "https://baike.baidu.com/item/长兴县华盛高级中学/16631502?fromtitle=华盛高级中学&fromid=24068776&fr=aladdin" },
+    { title: "浙江理工大学", href: "https://www.zstu.edu.cn" },
+
   ]

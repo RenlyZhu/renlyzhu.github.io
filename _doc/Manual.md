@@ -1,4 +1,4 @@
-Hux Blog User Manual
+Renly Blog User Manual
 ====================
 
 * Basics
@@ -53,13 +53,13 @@ You can easily customize the blog by modifying `_config.yml`:
 
 ```yml
 # Site settings
-title: Hux Blog             # title of your website
-SEOTitle: Hux Blog          # check out docs for more detail
+title: Renly Blog             # title of your website
+SEOTitle: Renly Blog          # check out docs for more detail
 description: "Cool Blog"    # ...
 
 # SNS settings      
-github_username: huxpro     # modify this account to yours
-weibo_username: huxpro      # the footer woule be auto-updated.
+github_username: renlyzhu     # modify this account to yours
+weibo_username: 要一直努力的renly      # the footer woule be auto-updated.
 
 # Build settings
 paginate: 10                # nums of posts in one page
@@ -82,7 +82,7 @@ layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-01-29 12:00:00
-author:     "Hux"
+author:     "Renly"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -167,8 +167,8 @@ This module can live when sidebar is off as well.
 Friends information is configured as a JSON string in `_config.yml`
 
 ```yml
-# Friends
-friends: [
+# 教育经历
+教育经历: [
     {
         title: "Foo Blog",
         href: "http://foo.github.io/"
