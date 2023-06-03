@@ -11,9 +11,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
+weibo_username: 要一直努力的renly
 zhihu_username: huxpro
-github_username: huxpro
+github_username: RenlyZhu
 twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -22,7 +22,7 @@ twitter_username: huxpro
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 0
 exclude:
   [
     "less",
