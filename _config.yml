@@ -82,10 +82,10 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# Friends
-friends:
+# Education
+教育:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "虹星桥镇中学" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
