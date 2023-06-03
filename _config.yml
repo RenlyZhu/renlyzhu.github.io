@@ -28,7 +28,6 @@ exclude:
     "less",
     "node_modules",
     "Gruntfile.js",
-    "package.json",
     "README.md",
     "README.zh.md",
   ]
@@ -43,11 +42,11 @@ anchorjs: true # if you want to customize anchor. check out line:181 of `post.ht
 plugins: [jekyll-paginate]
 
 # Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# replace redcarpet to markdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to markdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-kramdown:
+markdown: markdown
+Markdown:
   input: GFM # use Github Flavored Markdown !important
   syntax_highlighter_opts:
     span:
@@ -89,7 +88,7 @@ page-mathjax: false
   [
     { title: "长兴县虹星桥镇幼儿园", href: "https://www.ruyile.com/school/r251001/" },
     { title: "长兴县红星桥镇中学" },
-    { title: "长兴县华盛高级中学", href: "https://baike.baidu.com/item/长兴县华盛高级中学/16631502?fromtitle=华盛高级中学&fromid=24068776&fr=aladdin" },
+    { title: "长兴县华盛高级中学" },
     { title: "浙江理工大学", href: "https://www.zstu.edu.cn" },
 
   ]
