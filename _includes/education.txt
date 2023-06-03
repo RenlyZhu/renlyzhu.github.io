@@ -1,0 +1,9 @@
+{% if site.education %}
+<hr>
+<h5>EDUCATION</h5>
+<ul class="list-inline">
+  {% for education in site.education %}
+  <li><a href="{{education.href}}">{{education.title}}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}
